@@ -1,4 +1,4 @@
-# Marko Kosić
+# Hi, my name is Marko
 
 Fullstack Developer focused on clean, usable software.
 Currently working as a Software Engineer at Optima Apps.
